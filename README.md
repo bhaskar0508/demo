@@ -1,4 +1,4 @@
 # demo
 my first repo
 <br>
-author - Bhaskar kumar
+author - Bhaskar kumar (lnjpit)
